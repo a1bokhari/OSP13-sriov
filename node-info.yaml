@@ -1,0 +1,6 @@
+parameter_defaults:
+  OvercloudControllerFlavor: control
+  OvercloudComputeSriovFlavor: compute
+  ControllerCount: 1
+  ComputeSriovCount: 4
+
